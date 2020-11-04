@@ -1,6 +1,4 @@
-package MainController.Article.Model;
-
-import org.hibernate.validator.constraints.UniqueElements;
+package com.tester.io.Article.Model;
 
 public class ArticleDTO {
 

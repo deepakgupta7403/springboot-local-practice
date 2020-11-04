@@ -1,6 +1,7 @@
-package MainController.Article.Service;
+package com.tester.io.Article.Service;
 
-import MainController.Article.Model.ArticleDTO;
+
+import com.tester.io.Article.Model.ArticleDTO;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

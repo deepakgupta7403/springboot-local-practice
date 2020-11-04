@@ -1,7 +1,8 @@
-package MainController.Article.Controller;
+package com.tester.io.Article.Controller;
 
-import MainController.Article.Service.ArticleService;
-import MainController.Article.Model.ArticleDTO;
+
+import com.tester.io.Article.Model.ArticleDTO;
+import com.tester.io.Article.Service.ArticleService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

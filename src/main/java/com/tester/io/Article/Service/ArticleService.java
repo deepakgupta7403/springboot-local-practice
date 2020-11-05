@@ -14,7 +14,8 @@ public class ArticleService {
     List<ArticleDTO> articleDTOList = new ArrayList<>(Arrays.asList(new ArticleDTO(1,"Article 01","Description 1"),
             new ArticleDTO(2,"Article 02","Description 2"),
             new ArticleDTO(3,"Article 03","Description 3"),
-            new ArticleDTO(4,"Article 04","Description 4")
+            new ArticleDTO(4,"Article 04","Description 4"),
+            new ArticleDTO(5,"Article 05","Description 5")
     ));
 
 
